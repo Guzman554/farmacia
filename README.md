@@ -367,3 +367,102 @@
 
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Promociones de la Farmacia</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+        .promotion {
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            margin: 10px;
+            padding: 15px;
+            width: 250px;
+            text-align: center;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        .promotion img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 5px;
+        }
+        .promotion h2 {
+            font-size: 1.5em;
+            color: #333;
+        }
+        .promotion p {
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Promociones de la Farmacia</h1>
+    <div class="container">
+        <div class="promotion">
+            <img src="https://th.bing.com/th/id/OIP.ycBMJWwL_96VKbrbDLxw2AHaHa?rs=1&pid=ImgDetMain" alt="Descuentos en Productos">
+            <h2>Descuentos en Productos</h2>
+            <p>Hasta un 20% de descuento en productos seleccionados.</p>
+        </div>
+        <div class="promotion">
+            <img src="https://4.bp.blogspot.com/-pXfHKjWzSUg/V2boHfYJwzI/AAAAAAAAxsk/0JWTObUr_30-rO9Jm8Miqk2JUzpiY1C5ACLcB/s1600/13465977_10153972799662013_3254855058321800074_n.jpg" alt="Ofertas por Volumen">
+            <h2>Ofertas por Volumen</h2>
+            <p>Compra 2 y lleva el tercero a mitad de precio.</p>
+        </div>
+        <div class="promotion">
+            <img src="https://th.bing.com/th/id/OIP.t0DZ1o9RncaoHepMiPcdyAAAAA?rs=1&pid=ImgDetMain" alt="Programas de Fidelización">
+            <h2>Programas de Fidelización</h2>
+            <p>Acumula puntos en cada compra y canjéalos por descuentos.</p>
+        </div>
+        <div class="promotion">
+            <img src="https://th.bing.com/th/id/OIP.MJJHU3E74eYmxMkeeATQSAHaG0?rs=1&pid=ImgDetMain" alt="Promociones Estacionales">
+            <h2>Promociones Estacionales</h2>
+            <p>Descuentos en productos de temporada.</p>
+        </div>
+        <div class="promotion">
+            <img src="https://static01.nyt.com/images/2022/10/11/well/11WELL-FLU-SHOT-EXPLAINER1-esp-1/11WELL-FLU-SHOT-EXPLAINER1-videoSixteenByNine3000.jpg" alt="Descuentos en Vacunas">
+            <h2>Descuentos en Vacunas</h2>
+            <p>Vacuna contra la gripe a precio especial.</p>
+        </div>
+        <div class="promotion">
+            <img src="https://th.bing.com/th/id/OIP.-YA91mo2AK-L8hWgeQJbKgHaE8?rs=1&pid=ImgDetMain" alt="Pruebas de Salud Gratuitas">
+            <h2>Pruebas de Salud Gratuitas</h2>
+            <p>Control de presión arterial sin costo.</p>
+        </div>
+        <div class="promotion">
+            <img src="https://th.bing.com/th/id/OIP._2sCsmSWaYvvEYY-4tA_eQHaE8?rs=1&pid=ImgDetMain" alt="Consultas Gratuitas">
+            <h2>Consultas Gratuitas</h2>
+            <p>Asesoría de salud sin costo alguno.</p>
+        </div>
+        <div class="promotion">
+            <img src="https://static4.depositphotos.com/1021974/355/i/450/depositphotos_3554766-stock-photo-15-percent-discount.jpg" alt="Combos de Productos">
+            <h2>Combos de Productos</h2>
+            <p>Compra combo y ahorra un 15% en total.</p>
+        </div>
+        <div class="promotion">
+            <img src="https://th.bing.com/th/id/OIP.8qMzg_sMI4f5Ujh6ptKE-QHaFj?rs=1&pid=ImgDetMain" alt="Descuentos para Grupos Específicos">
+            <h2>Descuentos para Grupos Específicos</h2>
+            <p>10% de descuento para estudiantes y mayores.</p>
+        </div>
+    </div>
+
+</body>
+</html>
