@@ -72,3 +72,75 @@
     </div>
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Servicios de la Farmacia</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+        .service {
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            margin: 10px;
+            padding: 15px;
+            width: 250px;
+            text-align: center;
+        }
+        .service h2 {
+            font-size: 1.5em;
+            color: #333;
+        }
+        .service p {
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Servicios de la Farmacia</h1>
+    <div class="container">
+        <div class="service">
+            <h2>Asesoramiento Farmacéutico</h2>
+            <p>Orientación sobre el uso adecuado de medicamentos y salud general.</p>
+        </div>
+        <div class="service">
+            <h2>Vacunación</h2>
+            <p>Administración de vacunas, como la de la gripe y otras necesarias.</p>
+        </div>
+        <div class="service">
+            <h2>Pruebas de Salud</h2>
+            <p>Realización de pruebas rápidas de glucosa, colesterol y más.</p>
+        </div>
+        <div class="service">
+            <h2>Consulta de Salud</h2>
+            <p>Asesoría sobre el manejo de enfermedades crónicas y bienestar.</p>
+        </div>
+        <div class="service">
+            <h2>Productos de Cuidado Personal</h2>
+            <p>Venta de productos de higiene, cosméticos y suplementos.</p>
+        </div>
+        <div class="service">
+            <h2>Programas de Adherencia</h2>
+            <p>Apoyo para seguir correctamente los tratamientos médicos.</p>
+        </div>
+    </div>
+
+</body>
+</html>
