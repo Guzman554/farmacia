@@ -291,46 +291,6 @@
         </div>
     </div>
 
-</body>
-</html><!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Farmacia Magistral</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f9f9f9;
-            margin: 0;
-            padding: 20px;
-        }
-        h1 {
-            text-align: center;
-            color: #333;
-        }
-        .contact {
-            max-width: 600px;
-            margin: 0 auto;
-            background-color: #fff;
-            border: 1px solid #ddd;
-            border-radius: 5px;
-            padding: 20px;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-        }
-        .contact h2 {
-            text-align: center;
-            color: #333;
-        }
-        .contact p {
-            color: #555;
-        }
-        .contact-info {
-            margin: 10px 0;
-        }
-    </style>
-</head>
-<body>
 
     <h1>Farmacia Magistral</h1>
     
