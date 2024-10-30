@@ -436,3 +436,78 @@
     </div>
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Farmacia Magistral</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        .contact {
+            max-width: 600px;
+            margin: 0 auto;
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            padding: 20px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        .contact h2 {
+            text-align: center;
+            color: #333;
+        }
+        .contact p {
+            color: #555;
+        }
+        .contact-info {
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Farmacia Magistral</h1>
+    
+    <div class="contact">
+        <h2>Contacto</h2>
+        <div class="contact-info">
+            <strong>Teléfono:</strong>
+            <p>(52) 55-45-63-78-90</p>
+        </div>
+        <div class="contact-info">
+            <strong>Correo Electrónico:</strong>
+            <p>farmaciamagistral@hotmail.com</p>
+        </div>
+        <div class="contact-info">
+            <strong>Dirección:</strong>
+            <p>Avenida Aeropuerto Mz 23 A Lote 3, Colonia Ampliación Ciudad Lago, Ciudad de Mexico, 57185</p>
+        </div>
+        <div class="contact-info">
+            <strong>Sitio Web:</strong>
+            <p><a href="http://www.farmaciamagistral.com" target="_blank">www.farmaciamagistral.com</a></p>
+        </div>
+        <div class="contact-info">
+            <strong>Redes Sociales:</strong>
+            <p>
+                <a href="https://facebook.com/farmaciamagistral" target="_blank">Facebook</a> |
+                <a href="https://instagram.com/farmaciamagistral" target="_blank">Instagram</a>
+            </p>
+        </div>
+        <div class="contact-info">
+            <strong>Horario de Atención:</strong>
+            <p>Lunes a Viernes: 8:00 AM - 8:00 PM<br>Sábados: 9:00 AM - 2:00 PM</p>
+        </div>
+    </div>
+
+</body>
+</html>
